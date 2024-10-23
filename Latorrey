@@ -1,0 +1,120 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Latorrey Whitehead - Resume</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            margin: 0;
+            padding: 20px;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            background: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+        header, section {
+            margin-bottom: 20px;
+        }
+        h1, h2 {
+            color: #007bff;
+        }
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        ul li {
+            margin-bottom: 10px;
+        }
+        .job-title {
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Latorrey Whitehead</h1>
+            <p>Tempe, Arizona, 85288</p>
+        </header>
+
+        <section>
+            <h2>Skills</h2>
+            <ul>
+                <li>IT Support - 5+ years</li>
+                <li>Ticketing - 5+ years</li>
+                <li>Mainframe Applications - 5+ years</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Summary</h2>
+            <p>Experienced IT Support Technician with over four years of expertise in managing Windows operations, resolving IT support issues, and maintaining network equipment. Proficient in installing and configuring Microsoft OS, desktop setups, and troubleshooting network devices including routers, switches, SD-WAN, wireless access points, and VoIP systems. Adept at using PowerShell to automate support tasks and streamline operations. Skilled in managing user accounts and permissions through Active Directory and implementing MDM solutions for secure mobile device management. Experienced in supporting data processing and mainframe applications, ensuring seamless integration and optimal performance. Proven ability to provide efficient on-premise and remote support, conducting root cause analysis, and documenting solutions for complex technical problems. Limited experience with MacOS and iOS devices.</p>
+        </section>
+
+        <section>
+            <h2>Education</h2>
+            <p>Associate's in Human Services | Kellogg Community College - Battle Creek, MI | September 2010 to December 2012</p>
+        </section>
+
+        <section>
+            <h2>Certification & Awards</h2>
+            <ul>
+                <li><a href="https://www.credly.com/go/E3ca7Nf5BfI7PfFT7krJiQ">Cisco Certified</a></li>
+                <li><a href="https://www.credly.com/go/q4TSfr5VCtwdMb9EoDZpqg">Cisco Certified</a></li>
+                <li>AWS Certified Cloud Practitioner – Foundational | September 2023 to Present</li>
+                <li>Cisco Certified Support Technician | November 2023 to November 2026</li>
+                <li>AHIP | Medicare sales eligible | 2025 certified as of July 21, 2024</li>
+                <li>Arizona Licensed Life/Health/Accident exam NPN: 18828059</li>
+                <li>Driving license</li>
+                <li>AZ-900 certification 8/30/2024 (857 score)</li>
+            </ul>
+        </section>
+
+        <section>
+            <h2>Professional Experience</h2>
+            <ul>
+                <li>
+                    <span class="job-title">IT Support Technician</span> - Intuitive Surgical, Phoenix, AZ (January 2024 to May 2024)
+                    <ul>
+                        <li>Installed and configured Microsoft OS on client machines, ensuring compatibility with necessary applications.</li>
+                        <li>Provided desktop setup, including multiple screens and docking stations, for an optimized user experience.</li>
+                        <li>Utilized PowerShell to automate various support tasks, streamlining operations and reducing manual workload.</li>
+                        <li>Installed necessary cabling for robotic arms for surgeries.</li>
+                        <li>Assisted both on-premise and remote users with software troubleshooting, ensuring minimal downtime and swift resolution of issues.</li>
+                        <li>Conducted root cause analysis for complex network and application problems, documenting findings for future reference.</li>
+                        <li>Installed and maintained network equipment, including routers, switches, SDWAN, Wireless AP, and VoIP systems.</li>
+                        <li>Implemented and maintained MDM solutions, ensuring secure and efficient management of mobile devices.</li>
+                    </ul>
+                </li>
+                <li>
+                    <span class="job-title">IT Desktop Support Technician</span> - Western Alliance Bank, Chase Bank, Bank of America, Phoenix, AZ (December 2019 to November 2023)
+                    <ul>
+                        <li>Provided support for routers, switches, SD-WAN, wireless access points, and VoIP systems.</li>
+                        <li>Performed installation, migration, maintenance, and troubleshooting to ensure network reliability and performance.</li>
+                        <li>Used PowerShell to automate support tasks.</li>
+                        <li>Managed user accounts and permissions via Active Directory.</li>
+                        <li>Implemented network security protocols for financial data compliance.</li>
+                    </ul>
+                </li>
+                <li><span class="job-title">Health Insurance Agent</span> - eHealth, Tempe, AZ (September 2019 to November 2019)</li>
+                <li><span class="job-title">P&C Sales Agent</span> - All State Agency, Glendale, AZ (January 2019 to September 2019)</li>
+                <li><span class="job-title">Auto Claims Representative</span> - State Farm, Tempe, AZ (September 2018 to January 2019)</li>
+                <li><span class="job-title">Behavior Interventionist</span> - Avondale School, Avondale, AZ (August 2016 to September 2018)</li>
+                <li><span class="job-title">Behavior Specialist</span> - NBA/BIS, Glendale, AZ (November 2015 to May 2016)</li>
+                <li><span class="job-title">Site Support Technician</span> - Rio Salado College (May 2014 to March 2015)</li>
+                <li><span class="job-title">Paraprofessional</span> - Roosevelt School District (September 2013 to February 2015)</li>
+                <li><span class="job-title">Machinist</span> - Employment Group (November 2006 to December 2014)</li>
+                <li><span class="job-title">City Carrier/Clerk</span> - U.S. Postal Service (August 1999 to October 2006)</li>
+            </ul>
+        </section>
+    </div>
+</body>
+</html>
